@@ -1,0 +1,7 @@
+
+LIBRARY      "AsdkOPLine"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

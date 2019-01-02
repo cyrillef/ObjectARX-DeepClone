@@ -1,0 +1,7 @@
+
+LIBRARY      "AdcgArxCloning"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+
